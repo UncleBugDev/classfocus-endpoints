@@ -1,9 +1,9 @@
 {
   "version": "1.0",
-  "updated_at_utc": "2026-11-11T09:34:53Z",
-  "primary_url": "https://86.57.216.9:8443",
+  "updated_at_utc": "2026-11-11T09:40:38Z",
+  "primary_url": "https://86.57.216.9:9443",
   "domain_url": null,
-  "lan_url": "https://192.168.100.80:8443",
+  "lan_url": "https://192.168.100.80:9443",
   "tailscale_url": "https://klass-server.tail48c9dc.ts.net",
-  "web_socket_url": "wss://86.57.216.9:8443/hub/"
+  "web_socket_url": "wss://86.57.216.9:9443/hub/"
 }
